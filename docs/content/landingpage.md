@@ -44,8 +44,8 @@ The "main" page which you see when you open the website.
 
 ```yaml
 hero:
-  title: Manage. Deploy.
-  subtitle: Lorem ipsum sit dolor amet is dummy text used by the typography industry
+  title: AlbaceApp.
+  subtitle: Te has pregunatdo que sucede con tu vida en internet una vez que ya no estás
   buttontext: Get started
   buttonlink: "#"
   image: illustrations/worker.svg
