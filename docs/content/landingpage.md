@@ -45,7 +45,7 @@ The "main" page which you see when you open the website.
 ```yaml
 hero:
   title: AlbaceApp.
-  subtitle: Te has pregunatdo que sucede con tu vida en internet una vez que ya no estás
+  subtitle: ¿Te has pregunatdo que sucede con tu vida en internet una vez que ya no estás?
   buttontext: Get started
   buttonlink: "#"
   image: illustrations/worker.svg
